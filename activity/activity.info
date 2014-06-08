@@ -1,0 +1,7 @@
+[Activity]
+name = livedemo
+activity_version = 1
+bundle_id = org.sugarlabs.sugarlistens.livedemo
+exec = sugar-activity activity.LiveDemoActivity
+icon = icon
+license = GPLv2+
