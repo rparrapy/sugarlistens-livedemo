@@ -1,3 +1,3 @@
-# Livedempo
+# Livedemo
 
-*Livedemo* is a simple Sugar Activity developed to test the sugarlistens API.
+**Livedemo** is a *very* simple Sugar Activity developed to test the *Sugar Listens* API.
